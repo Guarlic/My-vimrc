@@ -1,0 +1,11 @@
+git clone https://github.com/gmarik/Vundle.vim
+git clone https://github.com/tpope/vim-fugitive
+git clone https://github.com/nanotech/jellybeans.vim
+git clone https://github.com/airblade/vim-gitgutter
+git clone https://github.com/scrooloose/nerdtree
+git clone https://github.com/majutsushi/tagbar
+git clone https://github.com/vim-airline/vim-airline
+git clone https://github.com/vim-airline/vim-airline-themes
+git clone https://github.com/wfxr/minimap.vim
+git clone https://github.com/keith/swift.vim
+git clone https://github.com/edkolev/tmuxline.vim
